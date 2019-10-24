@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fr.ut2j.m1ice.ci.tpmaven","l":"App"},{"p":"fr.ut2j.m1ice.ci.tpmaven","l":"AppTest"},{"p":"fr.ut2j.m1ice.ci.tpmaven","l":"JXBusyLabelTest"}]
